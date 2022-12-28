@@ -21,4 +21,4 @@ This program takes comma-separated strings of test results, and transforms them 
 - Output 5: "Green: 1\nRed: 1\nUncounted: 2"
 
 - Input 6: "Green$% , red***,asdef"
-- Output 6: "Green: 1\nAmber: 0\nRed: 1\nUncounted: 0"
+- Output 6: "Green: 1\nAmber: 0\nRed: 1\nUncounted: 1"
